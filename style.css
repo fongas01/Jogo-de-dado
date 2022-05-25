@@ -1,0 +1,5 @@
+/*determinar o tamanho fixo do container*/
+body {
+  height: 100%;
+  box-sizing: border-box;
+}
